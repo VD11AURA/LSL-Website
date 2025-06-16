@@ -1,0 +1,34 @@
+{
+  "name": "Limburg Strategy Lab",
+  "mission": "Wir begleiten kleine und mittlere Unternehmen dabei, ihre strategischen Ziele zu erreichen und nachhaltiges Wachstum zu generieren.",
+  "vision": "Als führende Beratung für KMUs schaffen wir die Grundlage für unternehmerischen Erfolg im 21. Jahrhundert.",
+  "values": [
+    "Vertrauen und Transparenz",
+    "Individuelle Lösungen",
+    "Langfristige Partnerschaften",
+    "Praxisnahe Beratung"
+  ],
+  "story": "Limburg Strategy Lab wurde mit der Vision gegründet, mittelständischen Unternehmen den Zugang zu professioneller Strategieberatung zu ermöglichen. Mit über 15 Jahren Erfahrung in der Beratung von KMUs verstehen wir die besonderen Herausforderungen und Chancen, die kleinere Unternehmen haben.",
+  "whyKMU": {
+    "title": "Warum speziell KMUs?",
+    "subtitle": "Kleine und mittlere Unternehmen sind das Rückgrat der deutschen Wirtschaft",
+    "points": [
+      {
+        "title": "Flexibilität und Agilität",
+        "description": "KMUs können schneller auf Marktveränderungen reagieren und innovative Lösungen implementieren."
+      },
+      {
+        "title": "Persönliche Betreuung",
+        "description": "Bei uns sind Sie nicht nur eine Nummer - wir kennen Ihr Unternehmen und Ihre spezifischen Herausforderungen."
+      },
+      {
+        "title": "Kosteneffiziente Lösungen",
+        "description": "Unsere Beratung ist speziell auf das Budget von KMUs zugeschnitten, ohne Abstriche bei der Qualität."
+      },
+      {
+        "title": "Praxisnahe Umsetzung",
+        "description": "Wir entwickeln Strategien, die Sie mit Ihren Ressourcen auch tatsächlich umsetzen können."
+      }
+    ]
+  }
+}

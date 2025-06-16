@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "company": "MittelstandTech GmbH",
+    "industry": "Softwareentwicklung",
+    "quote": "Dank Limburg Strategy Lab haben wir unsere Digitalisierungsstrategie erfolgreich umgesetzt und konnten unsere Effizienz um 40% steigern.",
+    "author": "Sarah Müller",
+    "position": "Geschäftsführerin",
+    "result": "40% Effizienzsteigerung",
+    "projectType": "Digitalisierungsberatung"
+  },
+  {
+    "id": 2,
+    "company": "Familienunternehmen Schmidt",
+    "industry": "Maschinenbau",
+    "quote": "Die strategische Neuausrichtung mit dem Strategy Lab hat uns geholfen, trotz schwieriger Marktlage zu wachsen. Sehr empfehlenswert!",
+    "author": "Klaus Schmidt",
+    "position": "Inhaber",
+    "result": "15% Umsatzwachstum",
+    "projectType": "Strategieentwicklung"
+  },
+  {
+    "id": 3,
+    "company": "InnovaCorp",
+    "industry": "Handel",
+    "quote": "Das Change Management bei der Einführung neuer Systeme war perfekt. Alle Mitarbeiter waren von Anfang an mit an Bord.",
+    "author": "Andrea Weber",
+    "position": "Personalleitung",
+    "result": "100% Mitarbeiterakzeptanz",
+    "projectType": "Change Management"
+  },
+  {
+    "id": 4,
+    "company": "Regional Logistics",
+    "industry": "Logistik",
+    "quote": "Die Prozessoptimierung hat uns nicht nur Kosten gespart, sondern auch die Qualität unserer Services deutlich verbessert.",
+    "author": "Michael Braun",
+    "position": "Betriebsleiter",
+    "result": "25% Kostenreduktion",
+    "projectType": "Prozessoptimierung"
+  }
+]

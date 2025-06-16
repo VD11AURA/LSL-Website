@@ -1,0 +1,67 @@
+[
+  {
+    "id": "strategieentwicklung",
+    "title": "Strategieentwicklung",
+    "description": "Wir entwickeln mit Ihnen langfristige Geschäftsstrategien, die Ihr Unternehmen nachhaltig zum Erfolg führen.",
+    "details": "Unsere strategische Beratung umfasst Marktanalyse, Wettbewerbsbetrachtung, Zielsetzung und Roadmap-Entwicklung speziell für KMUs.",
+    "image": "/images/strategy-development.png",
+    "benefits": [
+      "Klare Unternehmensvision",
+      "Langfristige Planungssicherheit",
+      "Wettbewerbsvorteile identifizieren",
+      "Ressourcen optimal einsetzen"
+    ]
+  },
+  {
+    "id": "prozessoptimierung",
+    "title": "Geschäftsprozessoptimierung",
+    "description": "Optimieren Sie Ihre Arbeitsabläufe und steigern Sie die Effizienz in allen Unternehmensbereichen.",
+    "details": "Wir analysieren Ihre bestehenden Prozesse und entwickeln maßgeschneiderte Lösungen zur Steigerung der Produktivität.",
+    "image": "/images/process-optimization.png",
+    "benefits": [
+      "Kostenreduktion um bis zu 30%",
+      "Zeitersparnis in Arbeitsabläufen",
+      "Verbesserte Qualitätskontrolle",
+      "Erhöhte Mitarbeiterzufriedenheit"
+    ]
+  },
+  {
+    "id": "digitalisierung",
+    "title": "Digitalisierungsberatung",
+    "description": "Führen Sie Ihr Unternehmen erfolgreich ins digitale Zeitalter mit maßgeschneiderten Digitalisierungslösungen.",
+    "details": "Von der Auswahl der richtigen Software bis zur Implementierung digitaler Workflows begleiten wir Sie durch den Transformationsprozess.",
+    "image": "/images/digitalization.png",
+    "benefits": [
+      "Moderne Arbeitsplätze schaffen",
+      "Automatisierung wiederkehrender Aufgaben",
+      "Verbesserte Kundenkommunikation",
+      "Zukunftsfähige IT-Infrastruktur"
+    ]
+  },
+  {
+    "id": "finanzplanung",
+    "title": "Finanzplanung und -analyse",
+    "description": "Professionelle Finanzberatung für nachhaltiges Wachstum und gesunde Liquidität.",
+    "details": "Wir erstellen detaillierte Finanzpläne, analysieren Kennzahlen und entwickeln Strategien zur Optimierung Ihrer Finanzen.",
+    "image": "/images/financial-planning.jpg",
+    "benefits": [
+      "Transparente Kostenkontrolle",
+      "Liquiditätsplanung",
+      "Investitionsentscheidungen optimieren",
+      "Rentabilität steigern"
+    ]
+  },
+  {
+    "id": "change-management",
+    "title": "Change Management",
+    "description": "Begleitung bei Veränderungsprozessen mit bewährten Methoden und individueller Unterstützung.",
+    "details": "Wir unterstützen Sie dabei, Veränderungen im Unternehmen erfolgreich zu implementieren und Ihre Mitarbeiter dabei mitzunehmen.",
+    "image": "/images/change-management.webp",
+    "benefits": [
+      "Mitarbeiter erfolgreich einbinden",
+      "Widerständen professionell begegnen",
+      "Veränderungen nachhaltig verankern",
+      "Unternehmenskultur weiterentwickeln"
+    ]
+  }
+]

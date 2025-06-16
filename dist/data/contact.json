@@ -1,0 +1,22 @@
+{
+  "address": {
+    "street": "Domstraße 12",
+    "city": "65549 Limburg an der Lahn",
+    "country": "Deutschland"
+  },
+  "phone": "+49 6431 975-0",
+  "email": "info@limburg-strategy-lab.de",
+  "businessHours": {
+    "monday": "09:00 - 18:00",
+    "tuesday": "09:00 - 18:00",
+    "wednesday": "09:00 - 18:00",
+    "thursday": "09:00 - 18:00",
+    "friday": "09:00 - 17:00",
+    "saturday": "Nach Vereinbarung",
+    "sunday": "Geschlossen"
+  },
+  "socialMedia": {
+    "linkedin": "https://linkedin.com/company/limburg-strategy-lab",
+    "xing": "https://xing.com/company/limburg-strategy-lab"
+  }
+}
