@@ -1,3 +1,0 @@
-git add admin/.gitkeep
-git commit -m "Füge leeren admin-Ordner mit .gitkeep hinzu"
-git push
