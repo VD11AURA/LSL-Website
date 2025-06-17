@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "pnpm install && vite",
-    "build":  "pnpm install && rm -rf node_modules/.vite-temp && tsc -b && vite build && cp -R public/admin dist/admin",
+    "build":  "rm -rf node_modules/.vite-temp && tsc -b && vite build && cp -r public/admin dist/admin"
     "lint": "pnpm install && eslint .",
     "preview": "pnpm install && vite preview"
   },
